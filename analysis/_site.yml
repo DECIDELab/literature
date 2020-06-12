@@ -1,7 +1,7 @@
-name: "literature"
+name: "Literature"
 output_dir: ../docs
 navbar:
-  title: "literature"
+  title: "Literature"
   left:
   - text: Home
     href: index.html

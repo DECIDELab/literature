@@ -9,3 +9,44 @@ editor_options:
 ---
 
 Welcome to my research website.
+
+## Readings
+
+* [Health Care Policy After the COVID-19 Pandemic](https://jamanetwork.com/journals/jama/fullarticle/2767352?guestAccessKey=811e7ce1-2e9f-41f6-8da2-8c7f90c9415e&utm_source=silverchair&utm_medium=email&utm_campaign=article_alert-jama&utm_content=olf&utm_term=061220)
+
+* [Fake facts and alternative truths in medical research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5787277/)
+
+* [2020—A Year That Will Be Remembered](https://jamanetwork.com/journals/jama/fullarticle/2767349?guestAccessKey=48680da8-4d27-4cc7-a172-331e063a5071&utm_source=twitter&utm_medium=social_jama&utm_term=3415675221&utm_campaign=article_alert&linkId=90720367)
+
+* [Antimicrobial Resistance Surveillance in Low- and Middle-Income Countries: Progress and Challenges in Eight South Asian and Southeast Asian Countries](https://cmr.asm.org/content/33/3/e00048-19)
+
+* [A cluster randomised trial of cloth masks compared with medical masks in healthcare workers](https://bmjopen.bmj.com/content/5/4/e006577)
+
+* [Reform retractions to make them more transparent](https://www.nature.com/articles/d41586-020-01694-x)  
+
+* [Clinical trials during Covid-19: what’s missing?](https://www.statsci.co.uk/post/clinical-trials-during-covid-19-what-s-missing)
+
+### Justice & equality
+
+* [We have to teach doctors about injustice ](https://blogs.bmj.com/bmj/2020/06/12/we-have-to-teach-doctors-about-injustice/?utm_source=twitter&utm_medium=social&utm_term=hootsuite&utm_content=sme&utm_campaign=usage)
+
+* [Time to look in the mirror](https://science.sciencemag.org/content/368/6496/1161)
+
+* [Best practices for recording race/ethnicity](https://discourse.datamethods.org/t/best-practices-for-recording-race-ethnicity/3431)
+
+* [Racial injustice: our role as researchers and methodologists](https://discourse.datamethods.org/t/racial-injustice-our-role-as-researchers-and-methodologists/3422)
+
+### Social Epi
+
+* [Editorial: Let’s Be Causally Social](https://academic.oup.com/aje/article/189/3/165/5609194)
+
+* [Win-Win: Reconciling Social Epidemiology and Causal Inference](https://academic.oup.com/aje/article/189/3/167/5580308)
+
+* [Invited Commentary: What Social Epidemiology Brings to the Table—Reconciling Social Epidemiology and Causal Inference](https://academic.oup.com/aje/article/189/3/171/5574907)
+
+* [Invited Commentary: Counterfactuals in Social Epidemiology—Thinking Outside of “the Box”](https://academic.oup.com/aje/article/189/3/175/5574906)
+
+* [Invited Commentary: Making Causal Inference More Social and (Social) Epidemiology More Causal](https://academic.oup.com/aje/article/189/3/179/5579818)
+
+* [Galea and Hernán Respond to “Brings to the Table,” “Differential Measurement Error,” and “Causal Inference in Social Epidemiology”](https://academic.oup.com/aje/article/189/3/183/5574908)
+
